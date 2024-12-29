@@ -1036,13 +1036,13 @@ cmd({
                       'url': _0x56e5a4
                     },
                     'mimetype': "video/mp4",
-                    'fileName': _0x5469b6.title + " - " + _0x21b2a8.quality + ".mp4",
-                    'caption': _0x5469b6.title + "\nQuality: " + _0x21b2a8.quality + "\nPowered by SinhalaSub",
+                    'fileName': "🎬CK CineMAX🎬 -" + _0x5469b6.title + " - " + _0x21b2a8.quality + ".mp4",
+                    'caption': "🍀" + _0x5469b6.title + "\n💿Qᴜᴀʟɪᴛʏ: " + _0x21b2a8.quality + "\n\n\n> 👨🏻‍💻ʙʏ *ᴄʜᴇᴛʜᴍɪɴᴀ ᴋᴀᴠɪꜱʜᴀɴ*",
                     'contextInfo': {
                       'mentionedJid': [],
                       'externalAdReply': {
                         'title': _0x5469b6.title,
-                        'body': "Download powered by khan-ai",
+                        'body': "ᴄʜᴇᴛʜᴍɪɴᴀ ᴋᴀᴠɪꜱʜᴀɴ",
                         'mediaType': 0x1,
                         'sourceUrl': _0xa22e01.link,
                         'thumbnailUrl': _0x5469b6.image
