@@ -1131,8 +1131,8 @@ cmd({
           'url': _0x3e031d
         },
         'mimetype': _0x530ff0.data.result.mimetype,
-        'fileName': _0x530ff0.data.result.fileName,
-        'caption': "*© Powered BY JawadTechX"
+        'fileName': "🎬CK CineMAX🎬 -" + _0x530ff0.data.result.fileName,
+        'caption': "🍀" + _0x530ff0.data.result.fileName + "\n\n> 👨🏻‍💻ʙʏ *ᴄʜᴇᴛʜᴍɪɴᴀ ᴋᴀᴠɪꜱʜᴀɴ*"
       }, {
         'quoted': _0x13f4cd
       });
