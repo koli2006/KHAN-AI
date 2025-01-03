@@ -18,7 +18,7 @@ Happy New Year 2025 🥳
 
 --- 
 
-<a><img src='https://files.catbox.moe/juroe8.jpg'/></a>
+<a><img src='https://files.catbox.moe/5dxv7p.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
