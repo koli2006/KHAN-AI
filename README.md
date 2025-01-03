@@ -2,8 +2,12 @@
   <h1 align="center">KHAN-AI 2.0</h1>
 </p>
 
-> **`Updated` The Version 2.0**
+> **`Updateding To` Version 3.0**
+---
 
+```
+Happy New Year 2025 🥳
+```
 ---
 
 <p align="center">
