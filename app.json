@@ -13,18 +13,12 @@
       "value": ""
     },  
     
-    "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+    "STICKER_NAME": {
+      "description": "type your sticker pack name.",
       "required": false,
-      "value": "https://files.catbox.moe/x3bdmi.jpg"
+      "value": "KHAN-AI"
     }, 
-    
-    "LIVE_MSG": {
-      "description": "paste your alive message hear.",
-      "required": false,
-      "value": "> Zinda Hun Yar *KHAN-AI*⚡"
-    },
-    
+      
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
@@ -80,8 +74,9 @@
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*SEEN YOUR STATUS BY KHAN-AI 🖤*"
-    }, 
-
+   
+     }, 
+    
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
