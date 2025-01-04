@@ -1077,7 +1077,7 @@ cmd({
   }
 });
 cmd({
-  'pattern': "gdrive",
+  'pattern': "ckcm",
   'desc': "To download Gdrive files.",
   'react': '🌐',
   'category': "download",
