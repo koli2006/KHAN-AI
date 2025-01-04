@@ -1,18 +1,18 @@
 <p align="center">
-  <h1 align="center">KHAN-AI 2.0</h1>
+  <h1 align="center">KHAN-AI 3.0</h1>
 </p>
 
-> **`Updateding To` Version 3.0**
+> **`Updated To` The Version 3.0**
 ---
 
 ```
-Happy New Year 2025 🥳
+Happy New Year 2025 ⭐🥳
 ```
 ---
 
 <p align="center">
   <a href="https://github.com/JawadTechX">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KHAN-AI-+v2.0+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KHAN-AI-+v3.0+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme">
   </a>
 </p>
 
@@ -43,7 +43,7 @@ Happy New Year 2025 🥳
 </p> 
 
 <p align="center">
-  <a href="https://github.com/JawadYTX/KHAN-AI"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/JawadYTX/KHAN-AI"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
